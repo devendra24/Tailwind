@@ -1,0 +1,53 @@
+#tailwindcss output
+public/styles.css
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Environment variables
+.env
+
+# Runtime data
+pids
+logs
+*.log
+
+# Compiled binary addons (if any)
+build/Release
+
+# Dependency directories in development mode
+node_modules/
+jspm_packages/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Yarn integrity file (https://yarnpkg.com/lang/en/docs/cli/check/)
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Typescript build directory
+/dist
+
+# Optional eslint cache
+.eslintcache
+
+# Optional flowtype directory
+.flow/
+
+# Optional VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux temporary files
+*~
