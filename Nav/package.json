@@ -1,0 +1,12 @@
+{
+  "name": "nav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind-watch": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
